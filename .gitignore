@@ -6,12 +6,11 @@
 .pnp.js
 /.history
 .history
-
-
-/src(TodoList)
+/pro-react-redux
 
 #course
-/pro-react-redux
+/src(TodoList)
+
 
 
 # testing
